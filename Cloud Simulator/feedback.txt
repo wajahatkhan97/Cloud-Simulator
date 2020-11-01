@@ -1,0 +1,8 @@
+Hi Wajahat,
+
+Your grade for HW1 is 11%.
+
+1. -1%: Broadcast storm requires you to simulate bouncing of packets across nodes in your network.
+2. +2%: For implementing the map-reduce model.
+
+Abhijeet
